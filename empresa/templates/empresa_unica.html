@@ -72,10 +72,10 @@
 
                 <div class="box-vagas">
                     <div class="header-vagas">
-                        {{vaga.titulo}}
+                        <a href="{% url 'vaga' vaga.id %}">{{vaga.titulo}}</a>
                     </div>
 
-                    <div class="body-vagas">
+                    <div class="body-vagas  ">
                         <div class="row">
                             <div class="col-md">
                                 <label class="paragrafo">Nível:</label>
