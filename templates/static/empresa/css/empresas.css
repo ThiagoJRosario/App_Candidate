@@ -22,7 +22,7 @@
     float: right;
     text-decoration: none;
     color: white;
-    background-color: #004080;
+    background-color: #008000;
     padding: 10px;
     border-radius: 10px;
     font-weight: bold;
@@ -31,13 +31,13 @@
 .btn-nova-empresa:hover{
     color: white;
     text-decoration: none;
-    background-color: #004080;
+    background-color: #008000;
 }
 
 .btn-excluir:hover{
     color: white;
     text-decoration: none;
-    background-color: #004080;
+    background-color: #008000;
 }
 
 .header-box{
@@ -73,7 +73,7 @@
 .btn-excluir{
     text-decoration: none;
     color: white;
-    background-color: #004080;
+    background-color: #008000;
     padding: 10px;
     border-radius: 10px;
     font-weight: bold;

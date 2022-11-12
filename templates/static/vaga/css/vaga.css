@@ -1,6 +1,6 @@
 .titulo{
 
-    color: #7D2948;
+    color: #008000;
     font-weight: bold;
     font-size: 35px;
 
@@ -40,7 +40,7 @@
 }
 
 .li-tarefa{
-    background-color: #3B0032;
+    background-color: #008000;
     padding: 10px;
     color:white;
     border-radius: 10px;
@@ -48,7 +48,7 @@
 }
 
 .li-tech{
-    background-color: #3B0032;
+    background-color: #008000;
     padding: 10px;
     color:white;
     border-radius: 10px;
@@ -92,7 +92,7 @@
 }
 
 .header-email{
-    background-color: #7D2948;
+    background-color: #008000;
     padding: 15px;
     color: white
 }
