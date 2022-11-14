@@ -65,7 +65,7 @@
         <hr>
 
         <a data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-lg btn-orange">Nova vaga</a>
-
+        <a href="{% url 'empresa' %}"class="btn btn-lg btn-orange">Voltar - Lista de Empresas</a>
         <div class="row">
             {% for vaga in vagas %}
                 <div class="col-md">
@@ -194,7 +194,6 @@
                     </div>
                     <br>
                     <input type="submit" value="Nova Vaga" class="btn btn-lg btn-orange">
-
                 </form>
             </div>
 
