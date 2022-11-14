@@ -1,6 +1,6 @@
 .titulo{
 
-    color: #008000;
+    color: #0b1f34;
     font-weight: bold;
 
 }
@@ -11,7 +11,7 @@
 
 .btn-orange{
 
-    background-color: #ED8554;
+    background-color: #0b1f34;
     color: white;
 }
 
@@ -27,7 +27,7 @@ label{
 }
 
 .header-vagas{
-    background-color: #808080;
+    background-color: #0b1f34;
     padding: 15px;
     color: white
 }
@@ -37,5 +37,5 @@ label{
 }
 
 .paragrafo-orange{
-    color: #ED8554;
+    color: #ed7947;
 }
