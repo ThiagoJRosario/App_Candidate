@@ -28,7 +28,7 @@ In the app it is possible to register the company for which you applied, create 
 # clonar repositório
 git clone https://github.com/ThiagoJRosario/App_Candidate
 # Open the project in your code reader. in this example I using the VS Code.
-
+python manage.py runserver
 # run the server and open it in your browser of choice
 ```
 
